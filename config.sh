@@ -1,0 +1,1 @@
+./RustDedicated -batchmode +server.ip 0.0.0.0 +server.port 28015 +server.tickrate 10 +server.hostname "Your Server Name" +server.identity "your_server_identity" +server.seed 790809233 +server.maxplayers 100 +server.worldsize 4250 +server.saveinterval 600 +rcon.ip 0.0.0.0 +rcon.port 28016 +rcon.password "Your_Rcon_Password"
